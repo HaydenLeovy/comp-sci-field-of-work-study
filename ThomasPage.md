@@ -1,6 +1,6 @@
 # Thomas Parameswaran
 Hello, I am Thomas Parameswaran and I am currently a freshman at the University of Colorado Boulder studying computer science.
-I enjoy programming and hope to someday develop apps or games.
+I enjoy programming and hope to develop games.
 
 Some projects I've worked on:
 
