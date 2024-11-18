@@ -13,6 +13,4 @@ One of my ongoing GitHub projects is
 - LinkedIn: <https://www.linkedin.com/in/dhilonprasad/>
 - Email: <dhpr4013@colorado.edu>
 
-![Untitled design (4)](https://github.com/user-attachments/assets/ce1b4cea-f7a4-45f2-a8c3-6f633cd59b14)
-
 
