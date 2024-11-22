@@ -3,20 +3,26 @@
 
 #include <iostream>
 #include <string>
+#include <fstream>
 using namespace std;
 
+
+void readFile(string fileName)
+{
+    string output;
+    fstream file(fileName);
+    while(getline(file, output))
+    {
+        cout << output << endl;
+    }
+}
 
 int main()
 {
     //create instances of classes
 
     //first section
-
-    cout << "Tranition to next persons section placeholder" << endl;
+    readFile("Story1.txt");
+    cout << "And then you wake up from your dream" << endl;
     //SecondPersonsClass.printStory()
-    cout << "Tranition to next persons section placeholder" << endl;
-     //SecondPersonsClass.printStory()
-    cout << "Tranition to next persons section placeholder" << endl;
-    //SecondPersonsClass.printStory()
-    cout << "Tranition to next persons section placeholder" << endl;
 }
